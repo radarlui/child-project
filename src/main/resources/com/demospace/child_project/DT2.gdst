@@ -112,7 +112,7 @@
   <imports>
     <imports>
       <org.kie.soup.project.datamodel.imports.Import>
-        <type>com.demospace.parent_project.TestDO</type>
+        <type>com.demospace.TestDO</type>
       </org.kie.soup.project.datamodel.imports.Import>
     </imports>
   </imports>

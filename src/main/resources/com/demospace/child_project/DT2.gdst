@@ -114,7 +114,7 @@
   <imports>
     <imports/>
   </imports>
-  <packageName>com.demospace.parent_project</packageName>
+  <packageName>com.demospace.child_project</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
   <hitPolicy>NONE</hitPolicy>
   <data>
